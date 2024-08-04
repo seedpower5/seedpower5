@@ -1,22 +1,20 @@
-![Logo](logo.png)
+## ![Logo](logo.png) Hola, mi nombre es Jorge Balmori Arenas 👋
 
-## Hi there 👋
+💬 Soy un desarrollador de aplicaciones web Full Stack con conocimientos en: Spring, Java, Angular, GitHub/GitLab, HTML, CSS, PHP, MySQL.
 
-Hola, mi nombre es Jorge Balmori Arenas 👋
+💬 Soy un apasionado del desarrollo con ganas de aprender y actualizarme constantemente. Estoy abierto a cualquier tipo de oferta laboral.
 
-💬Soy un desarrollador de aplicaciones web Full Stack con conocimientos en: Spring, Java, Angular, GitHub/GitLab, HTML, CSS, PHP, MySQL.
+🤔 Cuento con la titulación de Desarrollador de Aplicaciones Web (Módulo Superior) y un Diploma de Desarrollo de Aplicaciones Empresariales Java realizado en CIC Consulting mediante el Ayuntamiento de Santander.
 
-💬Soy un apasionado del desarrollo con ganas de aprender y actualizarme constantemente. Estoy abierto a cualquier tipo de oferta laboral. 
+🤔 Tengo conocimientos medios de inglés tanto escrito como hablado.
 
-🤔Cuento con la titulación de Desarrollador de Aplicaciones Web (Módulo Superior) y un Diploma de Desarrollo de Aplicaciones Empresariales Java realizado en CIC Consulting mediante el Ayuntamiento de Santander.
-
-🤔Tengo conocimientos medios de inglés tanto escrito como hablado.
-
-📫Podéis contactarme interesados mediante mi LinkedIn cuyo enlace se encuentra debajo, así como por Gmail o teléfono.
+📫 Podéis contactarme interesados mediante mi LinkedIn cuyo enlace se encuentra debajo, así como por Gmail o teléfono.
 
 ### Contacto
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/jorge-balmori-arenas)
+<a href="https://www.linkedin.com/in/jorge-balmori-arenas" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25" height="25" />
+</a> [LinkedIn](https://www.linkedin.com/in/jorge-balmori-arenas)
 
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png)](mailto:jbalmoriarenas@gmail.com)
 
