@@ -16,7 +16,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25" height="25" />
 </a> [LinkedIn](https://www.linkedin.com/in/jorge-balmori-arenas)
 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png)](mailto:jbalmoriarenas@gmail.com)
+📧 [jbalmoriarenas@gmail.com](mailto:jbalmoriarenas@gmail.com)
+
 
 <!--
 **seedpower5/seedpower5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
