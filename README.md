@@ -1,4 +1,4 @@
-## ![Logo](logo.png) Hola, mi nombre es Jorge Balmori Arenas 👋
+Hola, mi nombre es Jorge Balmori Arenas 👋
 
 💬 Soy un desarrollador de aplicaciones web Full Stack con conocimientos en: Spring, Java, Angular, GitHub/GitLab, HTML, CSS, PHP, MySQL.
 
